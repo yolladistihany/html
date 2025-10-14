@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+p {
+    font-size: 18px;
+    color: gray;
+}
+button {
+    background-color: darkgreen;
+    color: white;
+    padding: 10px;
+}

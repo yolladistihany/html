@@ -1,0 +1,37 @@
+/* Elemen Selector */
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    font-size: 3em;
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.8;
+    color: #4c5f70;
+}
+
+h2 {
+    color: darkgreen;
+    text-align: left;
+    text-decoration: underline;
+}
+
+/* Class Selector */
+.dampak-penting {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-left: 5px solid red;
+    font-weight: bold;
+}
+
+/* ID Selector */
+#penutup-artikel {
+    text-align: right;
+    font-style: italic;
+    margin-top: 30px;
+}
